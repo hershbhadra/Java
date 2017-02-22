@@ -1,2 +1,0 @@
-# Java
-Fun with Java
